@@ -4,11 +4,11 @@ public class Employee extends Member
 	{
 		void printSalary()
 		{
-			super()
+			
 		}
 		public static void main(String[] xyz)
 		{
-			
+			super()
 			Employee e=new Employee();
 			e.Name="Sai";
 			e.Age=29;

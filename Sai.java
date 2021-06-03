@@ -1,4 +1,9 @@
-class Sai
-{
-	static String Ananth="I want to clear your loan ASAP";
+package practice;
+
+public class Sai {
+	 static int getSquare(int a)
+	 {
+		 return a*a;
+	 }
+
 }

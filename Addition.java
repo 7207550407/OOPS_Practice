@@ -1,16 +1,10 @@
-class Addition
-{
-	static String name="Sai";
-	int number=10;
-	
-	public static int additionOfTwoNumbers(int a, int b)
-	{
-			return a+b;
+package sai1.scanner;
+
+import java.time.LocalDate;
+
+public class Addition {
+	public static void main(String[] args) {
+		LocalDate ld = LocalDate.now();
+		System.out.println(ld);
 	}
-	
-	public int additionOfThreeNumbers(int a, int b, int c)
-	{
-		return a+b+c;
-	}
-	
 }
